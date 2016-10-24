@@ -1,5 +1,4 @@
 #include<stdio.h>
-//author:sibiraj 
 int standfun();
 int initialfun();
 int loop();
